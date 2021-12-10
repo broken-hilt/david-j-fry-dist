@@ -23,6 +23,7 @@
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/down-a-long-clovelly-devon-p790/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/caernarfon-castle-north-wales-p787/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/lyme-regis-dorset-p785/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/on-the-line-p784/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/st-ives-cornwall-p783/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/st-ives-cornwall-p782/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/porthleven-cornwall-p781/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,6 +31,7 @@
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/st-anthony-cornwall-p779/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/minack-theatre-cornwall-p778/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/st-ives-cornwall-p777/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p775-saint-anthony-cornwall-p775/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/portland-bill-dorset-p774/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/afon-glaslyn-north-wales-p773/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/criccieth-castle-north-wales-p772/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -50,15 +52,20 @@
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/st-ives-cornwall-p737/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/cottages-porlock-weir-somerset-p736/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/mousehole-harbour-cornwall-p735/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p730-hereford-cathedral-a-sunny-winters-day-p730/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/polperro-cornwall-p728/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/chapter-house-garden-hereford-cathedral-p722/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/hereford-cathedral-winter-p718/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/the-cathedrals-of-hereford-gloucester-and-worcester-p714/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/pembridge-bridge-over-the-river-arrow-herefordshire-p713/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/the-river-wye-and-hereford-cathedral-p710/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p709-farm-house-eardisland-herefordshire-p709/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p707-cottage-of-content-ballingham-herefordshire-p707/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p705-little-village-farm-allensmore-herefordshire-p705/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/church-lane-ledbury-herefordshire-p701/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/church-lane-ledbury-herefordshire-p700/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/fownhope-herefordshire-p698/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p696-mordiford-herefordshire-p696/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/the-river-wye-and-cherry-hill-near-fownhope-herefordshire-p693/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/hereford-old-bridge-circa-1900-p690/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/holme-lacy-house-holme-lacy-herefordshire-p687/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -67,6 +74,7 @@
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/fownhope-herefordshire-circa-1900-p682/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/bluebells-in-belmont-woods-herefordshire-p681/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/fownhope-village-herefordshire-p680/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.davidjfryfineart.co.uk/paintings/p678-the-black-and-white-house-hereford-p678/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/the-old-house-high-town-hereford-p678/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/the-green-man-inn-fownhope-herefordshire-p676/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.davidjfryfineart.co.uk/paintings/market-square-pembridge-herefordshire-p674/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
